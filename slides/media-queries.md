@@ -71,6 +71,9 @@ theme: Cobalt2, 1
 [.background-color: #ffffff]
 [.footer-style: #111]
 
+- Discuss the Responsive Web Design History & Concepts
+- Preparing For Responsive Implementation
+- Introduce Media Queries
 ![fit](https://www.mobify.com/static/img/ebooks/mobile-seo-mdot.png)
 
 ^ 1. Each version is a separate code base. One change requires at least two edits.

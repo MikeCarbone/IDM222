@@ -14,18 +14,18 @@ theme: Cobalt2, 1
 
 [.build-lists: false]
 
-![left](images/avatar.jpg)
+![left](images/prod-hunt.jpg)
 
 ## About Me
 
-- Name: Phil Sinatra
-- Email: ps42@drexel.edu
-- GitHub: [@philsinatra](https://github.com/philsinatra)
+- Name: Mike Carbone
+- Email: mfc78@drexel.edu
+- GitHub: [@mikecarbone](https://github.com/mikecarbone)
 
 ## About This Course
 
 - [Drexel Learn](https://learn.dcollege.net/webapps/login/)
-- [Course Repository](https://github.com/philsinatra/IDM222)
+- [Course Repository](https://github.com/mikecarbone/IDM222)
 
 ^ All course information including syllabus, overview and assignments will be managed through Drexel's Blackboard (BBLearn) system. Let's log in and review the syllabus and course information now.
 

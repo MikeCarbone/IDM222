@@ -20,6 +20,22 @@ Your final project represents the culmination of past ten weeks.  This project w
     - Is your content legible with proper contrast, color scheme, typography etc.?
     - Would you feel comfortable using this project in a job interview as an example of your skills?
 
+## Expectations
+
+Here are some things I'll be looking for when grading your final assignment. A great final project will have these features:
+- Website looks great on mobile, desktop, and everywhere in between (the smallest size you have to account for is 320px)
+- Used flexbox when appropriate
+- Used CSS Grid when appropriate
+- All images are responsive (uses responsive image techniques, high quality image on desktop and lower quality image on mobile)
+- Uses CSS custom properties for frequently repeated values (brand color, black color values, white color values, etc)
+- Uses BEM syntax to structure class names
+- Uses semantic HTML tags wherever possible
+- Doesn't use ids to style elements (#container1 { ...css } is bad)
+- CSS animations and transitions are used to smoothen interactivity
+- Great design
+
+Reminder: this HTML and CSS should be drastically different than the code for your IDM-221 final. If it's not, that is a problem. I'll be checking.
+
 ## Submitting the Assignment
 
 Submit the following items in [Drexel Blackboard](https://learn.dcollege.net/) under **Final Project**:
