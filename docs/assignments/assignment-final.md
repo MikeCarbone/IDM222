@@ -33,10 +33,13 @@ Here are some things I'll be looking for when grading your final assignment. A g
 - Doesn't use ids to style elements (#container1 { ...css } is bad)
 - CSS animations and transitions are used to smoothen interactivity
 - Great design
+- Properly indented HTML and CSS
 
 Reminder: this HTML and CSS should be drastically different than the code for your IDM-221 final. If it's not, that is a problem. I'll be checking.
 
 ## Submitting the Assignment
+
+The assignment will be due the last day of finals week. That is Friday, March 18, 2022 at 6:00pm.
 
 Submit the following items in [Drexel Blackboard](https://learn.dcollege.net/) under **Final Project**:
 
