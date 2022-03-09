@@ -28,7 +28,7 @@ theme: Cobalt2, 1
 
 You are now creators. Build whatever you want. Make money.
 
-![left](images/swimming-pool.jpg)
+![right](images/swimming-pool.jpg)
 
 ---
 
@@ -36,6 +36,9 @@ You are now creators. Build whatever you want. Make money.
 
 - Like you, was also taking course on JS
     - Started reading [You Don't Know JS by Kyle Simpson](https://www.amazon.com/dp/B084BNMN7T)
+- Took as many specialized courses as I could at Drexel
+- Started learning on Youtube (Brad Traversy is the best) 
+- Learned what interested me on [codecademy](https://codecademy.com)
 
 ---
 
@@ -150,10 +153,26 @@ How did I discover this stuff? How to know what's relevant, new, exciting, etc?
 
 ---
 
+## Career Tips From my coworkers
+- Imposter syndrome is real, don't give in
+    - It takes a long time to get up and running at a new job
+    - It's normal to be confused
+    - You're going to learn A LOT at that first job
+- Be ready for a career of learning and change
+- You will always be a noob at something
+    - We were all noobs once and will be noobs again. Have empathy for those around you.
+- Try everything you can think of before asking for help. When asking, let them know what you tried.
+    - If you tried everything, ask for help!
+- Asking questions is SMART, not stupid
+- Bad jobs are like bad relationships, avoid and leave toxicity ASAP
+
+---
+
 ## Connect with me
 - [My LinkedIn](https://www.linkedin.com/in/carbone-mike/)
-- [My Twitter](https://twitter.com/MikeCarbone)
-- [My Instagram](https://instagram.com/carbonemike)
-- My phone number...
+- [My Twitter @MikeCarbone](https://twitter.com/MikeCarbone)
+- [My Instagram @carbonemike](https://instagram.com/carbonemike)
+- [My personal email]()
+- [My phone number]()
 
 Reach out anytime. Recommendations, questions, beer, etc...
