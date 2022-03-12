@@ -66,7 +66,7 @@ Built Carbon Collective during co-op
 - Google Cloud image hosting
 - Twitter API integration
 - Infinite scroll pagination
-- [Link](https://www.carboncollective.com)
+- [Link](https://www.carboncollective.cc)
 
 ---
 
@@ -172,7 +172,7 @@ How did I discover this stuff? How to know what's relevant, new, exciting, etc?
 - [My LinkedIn](https://www.linkedin.com/in/carbone-mike/)
 - [My Twitter @MikeCarbone](https://twitter.com/MikeCarbone)
 - [My Instagram @carbonemike](https://instagram.com/carbonemike)
-- [My personal email]()
-- [My phone number]()
+- [My personal email (ask me)]()
+- [My phone number (ask me)]()
 
 Reach out anytime. Recommendations, questions, beer, etc...
